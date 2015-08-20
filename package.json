@@ -1,0 +1,15 @@
+{
+  "name": "markdownjs-loader",
+  "version": "0.0.1",
+  "description": "markdownjs-loader for webpack",
+  "main": "index.js",
+  "author": {
+    "name": "devhero",
+    "email": "andrea.parisi.dev@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "markdown": "^0.5.0",
+    "loader-utils": "^0.2.7"
+  }
+}
